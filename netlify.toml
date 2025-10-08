@@ -1,10 +1,9 @@
 [build]
   publish = "public"        # map met index.html
-  # geen build command nodig voor pure HTML/JS
 
 [functions]
   directory = "netlify/functions"
-  included_files = ["knowledge/**"]   # neem knowledge-map mee in bundle
+  included_files = ["knowledge/**"]   # neem de hele knowledge-map mee in de bundle
 
 [[redirects]]
   from = "/api/chat"
