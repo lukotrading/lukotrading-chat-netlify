@@ -1,1 +1,21 @@
+[
+  {
+    "name": "Externe Beton- en Steenreiniger",
+    "aliases": ["mos", "algen", "groene aanslag", "terras", "gevel", "dakpannen"],
+    "usage": "Reinigt paden, terrassen, gevels; verwijdert mos/algen/zwart-grijs vuil.",
+    "instructions": ["Aanbrengen", "Kort laten inwerken", "Afspuiten of afnemen"],
+    "safety": "Materiaalvriendelijk bij juiste dosering",
+    "sector": ["buitenonderhoud"],
+    "notes": "Dieptereiniging; vertraagt hervervuiling"
+  },
+  {
+    "name": "Badkamerreiniger GEL",
+    "aliases": ["kalk", "douche", "kranen", "zeepresten"],
+    "usage": "Verwijdert kalkaanslag en zeepresten; gelvorm voor verticale vlakken.",
+    "instructions": ["Aanbrengen", "Even laten inwerken", "Grondig afspoelen"],
+    "safety": "Niet mengen met andere middelen",
+    "sector": ["sanitair"],
+    "notes": "Snel en krachtig zonder schade"
+  }
+]
 
