@@ -14,3 +14,4 @@
 
 ## Gebruik
 - `embed.html` gebruiken in JouwWeb. Laat `const BACKEND = "/api/chat";` staan.
+- 
