@@ -1,11 +1,12 @@
 [build]
-  publish = "public"        # map met index.html
-
-[functions]
-  directory = "netlify/functions"
-  included_files = ["knowledge/**"]   # neem de hele knowledge-map mee in de bundle
+  publish = "public"
+  functions = "netlify/functions"
 
 [[redirects]]
   from = "/api/chat"
   to = "/.netlify/functions/chat"
   status = 200
+
+[functions]
+  included_files = ["knowledge/**"]
+
