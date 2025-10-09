@@ -1,92 +1,165 @@
 [
   {
     "name": "Airconditioner Reiniger en Desinfectiemiddel",
-    "aliases": ["airco reiniger", "airco desinfectie", "air conditioner cleaner", "evaporator cleaner"],
+    "aliases": ["airco reiniger", "airco desinfectie", "air conditioner cleaner", "evaporator cleaner", "filter reiniger"],
     "usage": "Reinigt en desinfecteert verdampers, filters en binnen-/buitenunits. Verwijdert stof, vuil, bacteriën, schimmel en nare geuren.",
-    "instructions": ["Spray op de te reinigen onderdelen.", "Laat kort inwerken.", "Naspoelen niet nodig."],
-    "safety": "Zeer mild voor de huid. Veilig op alle materialen.",
+    "instructions": ["Spray op onderdelen.", "Laat kort inwerken.", "Naspoelen niet nodig."],
+    "safety": "Zeer mild voor de huid, veilig op alle materialen.",
     "sector": ["HVAC", "onderhoud", "klimaatbeheersing"],
     "notes": "Laat een frisse geur achter."
   },
   {
     "name": "Badkamerreiniger GEL (kranen, douches, baden)",
-    "aliases": ["gelreiniger badkamer", "kalkverwijderaar gel", "bathroom gel cleaner"],
-    "usage": "Verwijdert hardnekkige kalkaanslag, zeepresten en organische vervuiling. Gelvorm, ideaal voor verticale vlakken.",
-    "instructions": ["Aanbrengen/sprayen op het oppervlak.", "Kort laten inwerken.", "Grondig afspoelen met water."],
-    "safety": "Niet mengen met andere reinigers. Veilig op kranen, douches en badkuipen.",
-    "sector": ["sanitair", "onderhoud"],
-    "notes": "Loopt niet af; snel en krachtig zonder schade."
-  },
-  {
-    "name": "Badkamerreiniger (kranen, douches, baden)",
-    "aliases": ["badkamerreiniger", "kalkverwijderaar", "bathroom cleaner"],
-    "usage": "Verwijdert opgehoopte kalkaanslag en zeepresten; krachtige ontvetter.",
-    "instructions": ["Spray op het oppervlak.", "Laat kort inwerken.", "Grondig afspoelen met water."],
+    "aliases": ["gelreiniger badkamer", "kalkverwijderaar gel", "douche reiniger", "kraanreiniger"],
+    "usage": "Verwijdert kalkaanslag, zeepresten en organische vervuiling. Gelvorm, ideaal voor verticale vlakken.",
+    "instructions": ["Aanbrengen of sprayen.", "Kort laten inwerken.", "Afspoelen met water."],
     "safety": "Niet mengen met andere reinigers.",
     "sector": ["sanitair", "onderhoud"],
-    "notes": "Snel en krachtig, veilig op gangbare badkameroppervlakken."
+    "notes": "Loopt niet af; krachtig zonder schade."
   },
   {
     "name": "Sanitaire Allesreiniger",
-    "aliases": ["sanitary multipurpose cleaner", "sanitairreiniger", "ontkalker sanitair"],
-    "usage": "Verwijdert hardnekkige kalkaanslag en vergelijkbare afzettingen; ontvet organische vervuiling. Veilig op sanitair.",
-    "instructions": ["Aanbrengen op het oppervlak.", "Kort laten inwerken.", "Afnemen en/of afspoelen met water."],
-    "safety": "Test bij gevoelige materialen eerst op een onopvallende plek.",
-    "sector": ["sanitair", "onderhoud", "facility"],
-    "notes": "Geschikt voor dagelijks en periodiek onderhoud."
+    "aliases": ["sanitairreiniger", "ontkalker", "toiletreiniger"],
+    "usage": "Verwijdert kalkaanslag en vet in sanitaire ruimtes.",
+    "instructions": ["Aanbrengen.", "Laten inwerken.", "Afspoelen of afnemen."],
+    "safety": "Test bij gevoelige oppervlakken eerst.",
+    "sector": ["sanitair", "facility"],
+    "notes": "Geschikt voor dagelijks en periodiek gebruik."
   },
   {
     "name": "Glasreiniger",
-    "aliases": ["glass cleaner", "ruitenreiniger", "ramenreiniger"],
-    "usage": "Reinigt alle soorten glas; verwijdert nicotine, vet en stofopbouw. Streeploze glans, trekt geen stof aan.",
-    "instructions": ["Vernevel op glas of doek.", "Verdelen en licht inwrijven.", "Nadrogen met pluisvrije doek of trekker."],
-    "safety": "Gebruik op koele oppervlakken; vermijd direct zonlicht.",
-    "sector": ["schoonmaak", "horeca", "retail", "facility"],
-    "notes": "Aangename geur, zuinig in gebruik."
+    "aliases": ["ruitenreiniger", "ramenreiniger", "glas spray"],
+    "usage": "Reinigt alle soorten glas, verwijdert vet, nicotine en stof. Geeft streeploze glans.",
+    "instructions": ["Vernevel op glas.", "Afnemen met doek of trekker."],
+    "safety": "Niet in direct zonlicht gebruiken.",
+    "sector": ["schoonmaak", "horeca"],
+    "notes": "Aangename geur, trekt geen stof aan."
   },
   {
     "name": "Schimmel- en Schimmeldoder",
-    "aliases": ["schimmelreiniger", "mold remover", "fungus remover", "desinfectie badkamer"],
-    "usage": "Desinfecteert en verwijdert schimmel in badkamers, sanitair, voegen en siliconen. Bevat actief chloor; bleekt oppervlakken.",
-    "instructions": ["Spray op het oppervlak.", "Laat kort inwerken.", "Indien nodig afspoelen."],
-    "safety": "Goed ventileren, handschoenen dragen. Niet mengen met andere producten.",
-    "sector": ["sanitair", "onderhoud", "desinfectie"],
-    "notes": "Gebruiksklaar product."
+    "aliases": ["schimmelreiniger", "mold remover", "chloorreiniger", "badkamer schimmel"],
+    "usage": "Verwijdert en desinfecteert schimmel in badkamers, voegen en siliconen.",
+    "instructions": ["Sprayen.", "Laten inwerken.", "Afspoelen indien nodig."],
+    "safety": "Goed ventileren, niet mengen met andere middelen.",
+    "sector": ["sanitair", "onderhoud"],
+    "notes": "Gebruiksklaar product met actief chloor."
   },
   {
     "name": "Vloerreiniger en Desinfectiemiddel",
-    "aliases": ["vloerreiniger", "desinfecterende vloerreiniger", "floor cleaner disinfectant"],
-    "usage": "Reinigt en desinfecteert vloeren: keramiek, marmer, steen, hout, laminaat, vinyl, PVC, rubber enz.",
-    "instructions": ["Verdunnen naargelang vervuiling.", "Dweilen of machinaal reinigen.", "Meestal niet naspoelen."],
-    "safety": "Laat geen gladde vloer achter bij juiste dosering.",
-    "sector": ["schoonmaak", "industrie", "horeca", "facility"],
-    "notes": "Aangename geur, krachtig tegen vervuiling."
+    "aliases": ["vloerreiniger", "desinfectie vloer", "vloer schoonmaken"],
+    "usage": "Reinigt en desinfecteert vloeren van keramiek, marmer, hout, vinyl en PVC.",
+    "instructions": ["Verdunnen naar behoefte.", "Dweilen of machinaal reinigen."],
+    "safety": "Laat geen gladde vloer achter.",
+    "sector": ["schoonmaak", "industrie", "horeca"],
+    "notes": "Frisse geur, krachtige werking."
   },
   {
     "name": "Tapijt- en Vlekkenreiniger",
-    "aliases": ["tapijtreiniger", "vlekkenverwijderaar tapijt", "carpet stain cleaner"],
-    "usage": "Verwijdert hardnekkige vlekken van voedsel en drank op tapijt en bekleding.",
-    "instructions": ["Spray op de vlek.", "Kort laten inwerken.", "Dep/borstel en verwijder met schone doek."],
-    "safety": "Test vooraf op kleurvastheid.",
-    "sector": ["schoonmaak", "horeca", "facility"],
-    "notes": "Snel en krachtig, zuinig in gebruik."
+    "aliases": ["tapijtreiniger", "vlekkenverwijderaar", "stofzuigerreiniger"],
+    "usage": "Verwijdert hardnekkige vlekken van eten en drinken op tapijt of bekleding.",
+    "instructions": ["Sprayen.", "Kort laten inwerken.", "Dep of borstel en droog na."],
+    "safety": "Test op kleurvastheid.",
+    "sector": ["horeca", "interieur"],
+    "notes": "Snel, krachtig en zuinig."
   },
   {
     "name": "Lederreiniger",
-    "aliases": ["lederreiniger", "leerreiniger", "leather cleaner"],
-    "usage": "Verwijdert kleding-, vet-, voedselvlekken en algemene vervuiling op leder.",
-    "instructions": ["Aanbrengen met zachte doek.", "Licht inwrijven, vuil verwijderen.", "Niet naspoelen."],
-    "safety": "Mild en veilig; tast leder niet aan.",
-    "sector": ["auto", "interieur", "meubilair"],
-    "notes": "Krachtig en zuinig."
+    "aliases": ["leerreiniger", "leder reiniger", "leather cleaner"],
+    "usage": "Verwijdert vet, kledingvlekken en vuil van leder zonder het te beschadigen.",
+    "instructions": ["Aanbrengen met zachte doek.", "Inwrijven en afnemen."],
+    "safety": "Zeer mild, tast leder niet aan.",
+    "sector": ["auto", "interieur"],
+    "notes": "Herstelt natuurlijke glans."
   },
   {
-    "name": "Stofferingreiniger",
-    "aliases": ["textielreiniger", "upholstery cleaner", "meubelstofreiniger"],
-    "usage": "Verwijdert vlekken van voedsel, vet en vloeistoffen op diverse textielen.",
-    "instructions": ["Spray op de vlek.", "Kort laten inwerken.", "Dep/borstel en droog na."],
-    "safety": "Mild en niet-agressief; geschikt voor gevoelige stoffen.",
-    "sector": ["interieur", "auto", "horeca"],
-    "notes": "Effectief en zacht."
+    "name": "Meubelreiniger en Polisher",
+    "aliases": ["meubelreiniger", "houtreiniger", "meubelpoets"],
+    "usage": "Reinigt, beschermt en laat meubels glanzen. Vermindert stofhechting.",
+    "instructions": ["Sprayen op doek.", "Uitwrijven tot glans."],
+    "safety": "Test op gevoelige oppervlakken.",
+    "sector": ["interieur", "onderhoud"],
+    "notes": "Antistatisch, aangename geur."
+  },
+  {
+    "name": "Vinyl-, Plastic- en Rubberverzorger (Auto)",
+    "aliases": ["plastic reiniger", "vinyl care", "rubber reiniger"],
+    "usage": "Beschermt en herstelt vinyl, rubber en kunststof. Geeft nieuw-uitzicht.",
+    "instructions": ["Aanbrengen met doek.", "Gelijkmatig verdelen."],
+    "safety": "Niet op stuur/pedalen gebruiken.",
+    "sector": ["auto", "interieur"],
+    "notes": "Antistatisch en glansherstellend."
+  },
+  {
+    "name": "Oven-, Grill- & Barbecuereiniger",
+    "aliases": ["ovenreiniger", "grillreiniger", "bbq reiniger"],
+    "usage": "Verwijdert vet, aangebakken resten en nare geuren.",
+    "instructions": ["Aanbrengen op lauw oppervlak.", "5–10 min inwerken.", "Afspoelen."],
+    "safety": "Niet op aluminium gebruiken, handschoenen dragen.",
+    "sector": ["horeca", "keuken"],
+    "notes": "Sterk alkalisch, professioneel resultaat."
+  },
+  {
+    "name": "RVS Roestverwijderaar en Laspolish",
+    "aliases": ["roest", "roestverwijderaar", "inox reiniger", "rvs reiniger"],
+    "usage": "Verwijdert roest en oxide op RVS, polijst lasnaden en beschermt tegen corrosie.",
+    "instructions": ["Aanbrengen op roest.", "Inwerken.", "Afspoelen of neutraliseren."],
+    "safety": "PBM dragen, niet mengen.",
+    "sector": ["metaal", "industrie"],
+    "notes": "Zeer krachtig en effectief."
+  },
+  {
+    "name": "Externe Beton- en Steenreiniger",
+    "aliases": ["mos", "algen", "groene aanslag", "gevelreiniger", "terrasreiniger"],
+    "usage": "Reinigt terrassen, muren, gevels en dakpannen. Verwijdert mos en aanslag.",
+    "instructions": ["Aanbrengen.", "Kort laten inwerken.", "Afspuiten met water."],
+    "safety": "Materiaalvriendelijk bij juiste dosering.",
+    "sector": ["buitenonderhoud", "bouw"],
+    "notes": "Vertraagt nieuwe vervuiling."
+  },
+  {
+    "name": "Zonnepaneel Schuimreiniger",
+    "aliases": ["zonnepaneelreiniger", "solar cleaner", "paneel schuim"],
+    "usage": "Reinigt zonnepanelen zonder schade aan te brengen. Verwijdert stof, vogelpoep en pollen.",
+    "instructions": ["Spray schuim.", "Kort inwerken.", "Afspoelen."],
+    "safety": "Niet gebruiken in volle zon.",
+    "sector": ["solar", "onderhoud"],
+    "notes": "Actieve schuimformule."
+  },
+  {
+    "name": "Hout Herstel & Bescherming (Buiten)",
+    "aliases": ["houtreiniger", "houtbeschermer", "hout opfrisser"],
+    "usage": "Herstelt verweerd hout en legt beschermfilm tegen veroudering.",
+    "instructions": ["Aanbrengen op schoon hout.", "Laten drogen."],
+    "safety": "Niet morsen op steen of metaal.",
+    "sector": ["tuin", "exterieur"],
+    "notes": "Duurzaam resultaat."
+  },
+  {
+    "name": "Roestconversie en Anticorrosieve Primer",
+    "aliases": ["roestomvormer", "metaalprimer", "anti roest coating"],
+    "usage": "Zet roest om in een beschermlaag, ontvet en beschermt metaal tegen corrosie.",
+    "instructions": ["Aanbrengen op metaal.", "Laten drogen.", "Overschilderen indien gewenst."],
+    "safety": "Goede ventilatie, PBM dragen.",
+    "sector": ["metaal", "industrie"],
+    "notes": "Vervangt primerlaag."
+  },
+  {
+    "name": "Industriële Ontstopper",
+    "aliases": ["afvoerontstopper", "gootsteen ontstopper", "rioolreiniger"],
+    "usage": "Verwijdert vet, haar, papier en organische resten uit leidingen in 1 minuut.",
+    "instructions": ["Giet in afvoer.", "Even laten inwerken.", "Naspoelen met water."],
+    "safety": "Niet mengen, PBM dragen.",
+    "sector": ["sanitair", "industrie"],
+    "notes": "Biologisch afbreekbaar."
+  },
+  {
+    "name": "Insectenverwijderaar (Bug Splat Cleaner)",
+    "aliases": ["insectenreiniger", "vliegenverwijderaar", "auto insect cleaner"],
+    "usage": "Verwijdert insectenresten van lak, ruiten en koplampen.",
+    "instructions": ["Sprayen.", "Inwerken.", "Afnemen of afspuiten."],
+    "safety": "Niet in zon gebruiken.",
+    "sector": ["auto", "carwash"],
+    "notes": "Snel en veilig."
   }
 ]
+
